@@ -1,2 +1,3 @@
-# sc
-SuperCollider projects
+# About
+
+Mainly to help pass files between computers.
