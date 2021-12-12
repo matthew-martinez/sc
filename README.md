@@ -1,3 +1,5 @@
-# About
+# SuperCollider Misc.
 
-Mainly to help pass files between computers.
+Collection of SuperCollider scripts (classes/tutorials, musical sketches) I have completed. 
+
+Repository is mainly for saving files and passing files between computers.
